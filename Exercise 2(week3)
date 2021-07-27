@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-16">
+  <title>didntdoitWk2</title>
+  
+  <style type="text/css">
+
+body {
+       background-color: #pink;
+       color: #green;
+  }
+    h1.purplecolor{
+    color:purple
+    }
+
+</style>
+</head>
+<body>
+  <h1 class="Student ID">My Favourite Things</h1>
+  <p "style"="font-style: 'italic';" Please see the results </p>
+  <ul>
+    <li> <h2>Miss Classes</h2>This is the title</h2>
+      <p id="test" class="test2"> I usually miss classes and don't complete in-class assessments; therefore, fail courses. I am cheatingmyself, not immigration.</p>
+      <a href="https://en.wikipedia.org/wiki/Leisure#/media/File:Man-relaxing.jpg"> 
+        <img class="test2" src="https://en.wikipedia.org/wiki/Leisure#/media/File:Man-relaxing.jpg"
+             alt="Sleeping" height="200" width="250"/>
+      </a>
+    </li>
+    <li> <h2>Pay Double for My Studies</h2>
+      <p "style"="font-family:'Garamond';font-style:'italic';"> I love to miss simple assessments, then fail the unit; therefore I pay double or triple for my studies.  I am cheating myself, not the teacher.</p>
+      <a href="http://wondergressive.com/wp-content/uploads/2013/07/government-waste.jpg">
+        <img src="http://wondergressive.com/wp-content/uploads/2013/07/government-waste.jpg"
+             alt="Bye Money" height="200" width="250"/>
+      </a>
+    </li>
+  </ul>
+  <p> Created by Alka</p>

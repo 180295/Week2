@@ -3,17 +3,21 @@
 <head>
   <meta charset="utf-16">
   <title>didntdoitWk2</title>
-  
-  <style>
-body {background-color: pink;}
-</style>
+  <style type="text/css">
+
+body {
+              background-color: pink;
+        color: green;
+}
 
 </style>
 </head>
 <body>
+
   <h1>My Favourite Things</h1>
   <ul>
     <li> <h2>Miss Classes</h2>
+      <p "style"="font-family:'Garamond';font-style:'italic';">
       <p> I usually miss classes and don't complete in-class assessments; therefore, fail courses. I am cheatingmyself, not immigration.</p>
       <a href="https://en.wikipedia.org/wiki/Leisure#/media/File:Man-relaxing.jpg"> 
         <img src="https://en.wikipedia.org/wiki/Leisure#/media/File:Man-relaxing.jpg"
